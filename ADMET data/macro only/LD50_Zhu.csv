@@ -1,0 +1,38 @@
+drug_id,drug,Ring size,y
+"1,4,7,10-Tetraoxacyclododecane",C1COCCOCCOCCO1,12,1.794
+"1,4,7,10,13-Pentaoxacyclopentadecane",C1COCCOCCOCCOCCO1,15,2.194
+"1,4,7,10,13,16-Hexanoxacyclooctadecane",C1COCCOCCOCCOCCOCCO1,18,2.279
+"Senecionan-11,16-dione, 12,18-dihydroxy- (9CI)",CC=C1CC(C)C(O)(CO)C(=O)OCC2=CCN3CCC(OC1=O)C23,12,4.013999999999999
+Natamycin,CC1CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC3OC3C=CC(=O)O1)CC(O)C2C(=O)O,24,2.387
+Actinomycin D,Cc1c2oc3c(C)ccc(C(=O)NC4C(=O)NC(C(C)C)C(=O)N5CCCC5C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC4C)c3nc-2c(C(=O)NC2C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC2C)c(N)c1=O,16,5.2410000000000005
+"1,10-Diaza-4,7,13,16-tetraoxacyclooctadecane",C1COCCOCCNCCOCCOCCN1,18,1.887
+Oleandomycin (chloroform solvate),COC1CC(OC2C(C)C(=O)OC(C)C(C)C(O)C(C)C(=O)C3(CO3)CC(C)C(OC3OC(C)CC(N(C)C)C3O)C2C)OC(C)C1O,14,2.011
+Geldanamycin,COC1=C2CC(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)C(OC)C=CC=C(C)C(=O)NC(=CC1=O)C2=O,19,2.351
+Erythromycin A,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,14,2.2030000000000003
+"Azelaic acid, cyclic ethylene ester",O=C1CCCCCCCC(=O)OCCO1,13,1.367
+"1,5,9-Cyclododecatriene (Z,E,E)",C1=CCCC=CCCC=CCC1,12,1.96
+"Oxacycloheptadec-8-en-2-one, (8Z)-",O=C1CCCCCC=CCCCCCCCCO1,17,2.872
+"Milbemycin B, 5-O-demethyl-28-deoxy-6,28-epoxy-25-(1-methylethyl)-, (6R,25R)-",CC1=CCC2CC(CC3(CCC(C)C(C(C)C)O3)O2)OC(=O)C2C=C(C)C(O)C3OCC(=CC=CC(C)C1)C23O,16,2.353
+"Senecionan-11,16-dione, 12-hydroxy-",CC=C1CC(C)C(C)(O)C(=O)OCC2=CCN3CCC(OC1=O)C23,12,3.596
+"7-(Formylmethyl)-4,10-dihydroxy-5-methoxy-9,16-dimethyl-2-oxooxacyclohexadeca-11,13-dien-6-yl 3,6-dideoxy-4-O-(2,6-dideoxy-3-C-methyl-alpha-L-ribo-hexopyranosyl)-3-(dimethylamino)-beta-D-glucopyranoside 4',4''-dipropionate (ester)",CCC(=O)OC1CC(=O)OC(C)CC=CC=CC(O)C(C)CC(CC=O)C(OC2OC(C)C(OC3CC(C)(O)C(OC(=O)CC)C(C)O3)C(N(C)C)C2O)C1OC,16,1.928
+"Erythromycin, 9-(O-((2-methoxyethoxy)methyl)oxime), (9E)-",CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O,14,3.004
+"21,23-Dioxa(13)cytochalasa-13,19-diene-1,17,22-trione, 6,7-epoxy-18-hydroxy-16,18-dimethyl-10-phenyl-, (7S,13E,16S,18R,19E)-",CC1CC=CC2C3OC3(C)C(C)C3C(Cc4ccccc4)NC(=O)C23OC(=O)OC=CC(C)(O)C1=O,13,4.736000000000001
+"Erythromycin, 6-O-methyl-",CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O,14,2.77
+"Polymyxin E(sub 1), 7-L-theonine-",CCC(C)CCCCC(=O)NC(CCN)C(=O)NC(C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)C(C(C)O)NC(=O)C(CC(C)C)NC(=O)C(CCN)NC1=O)C(C)O,23,3.104
+Platyphylline,CC=C1CC(C)C(C)(O)C(=O)OCC2CCN3CCC(OC1=O)C23,12,2.037
+"Senecionan-11,16-dione, 13,19-didehydro-12-hydroxy- (9CI)",C=C1CC(=CC)C(=O)OC2CCN3CC=C(COC(=O)C1(C)O)C23,12,3.636
+"Oxyacanthan, 6',12'-dimethoxy-2,2'-dimethyl-6,7-(methylenebis(oxy))- (9CI)",COc1ccc2cc1Oc1ccc(cc1)CC1c3c(cc4c(c3Oc3cc5c(cc3OC)CCN(C)C5C2)OCO4)CCN1C,18,2.482
+Cycloheptapentylose,OCC1OC2OC3C(CO)OC(OC4C(CO)OC(OC5C(CO)OC(OC6C(CO)OC(OC7C(CO)OC(OC8C(CO)OC(OC1C(O)C2O)C(O)C8O)C(O)C7O)C(O)C6O)C(O)C5O)C(O)C4O)C(O)C3O,35,1.781
+"2,7-(Epoxypentadeca(1,11,13)trienimino)benzofuro(4,5-a)phenazine-1,15(2H)-dione, 5,6,21,23,25-pentahydroxy-27-methoxy-2,4,16,20,22,24,26-heptamethyl-, 25-acetate",COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5nc6ccccc6nc5c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,24,2.593
+"Cyclic(L-3-phenyl-beta-alanyl-L-seryl-(3S-cis)-3,4-dichloro-L-prolyl-L-alpha-aminobutyryl-L-seryl)",CCC1NC(=O)C2C(Cl)C(Cl)CN2C(=O)C(CO)NC(=O)CC(c2ccccc2)NC(=O)C(CO)NC1=O,16,5.059
+"2,7-(Epoxypentadeca(1,11,13)trienimino)naphtho(2,1-b)furan-1,11(2H)-dione, 5,6,9,17,19,21-hexahydroxy-23-methoxy-2,4,12,16,18,20,22-heptamethyl-8-(N-(4-methyl-1-piperazinyl)formimidoyl)-, 21-acetate (8CI)",COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,24,2.719
+"Dibenzo(b,k)(1,4,7,10,13,16)hexaoxacyclooctadecin, 6,7,9,10,17,18,20,21-octahydro-",c1ccc2c(c1)OCCOCCOc1ccccc1OCCOCCO2,18,2.142
+"Senecionan-11,16-dione, 12,18-dihydroxy-, 4-oxide (9CI)",CC=C1CC(C)C(O)(CO)C(=O)OCC2=CC[N+]3([O-])CCC(OC1=O)C23,12,3.884
+"Dibenzo(b,k)(1,4,7,10,13,16)hexaoxacyclooctadecin, eicosahydro-",C1CCC2OCCOCCOC3CCCCC3OCCOCCOC2C1,18,3.326
+"Erythromycin, cyclic 11,12-carbonate",CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C2OC(=O)OC12C,14,2.117
+"Dibenz(b,n)(1,4,7,10,13,16,19,22)octaoxacyclotetracosin, tetracosahydro-",C1CCC2OCCOCCOCCOC3CCCCC3OCCOCCOCCOC2C1,24,3.788
+Leucomycin A6,CCC(=O)OC1C(C)OC(OC2C(C)OC(OC3C(CC=O)CC(C)C(O)C=CC=CCC(C)OC(=O)CC(OC(C)=O)C3OC)C(O)C2N(C)C)CC1(C)O,16,1.921
+"Rifamycin SV, 3-((6-ethyl-1,4-diazabicyclo(4.4.0)decyl)iminomethyl)-",CCC1CCC2CN(N=Cc3c4c(O)c5c(O)c(C)c6c(c5c3O)C(=O)C(C)(OC=CC(OC)C(C)C(OC(C)=O)C(C)C(O)C(C)C(O)C(C)C=CC=C(C)C(=O)N4)O6)CCN2C1,24,2.394
+"Morpholine, 4-cyclododecyl-2,6-dimethyl-",CC1CN(C2CCCCCCCCCCC2)CC(C)O1,12,2.027
+Cyclosporin A,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,33,2.91
+Valinomycin,CC1OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC(=O)C(C)OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC(=O)C(C)OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC1=O,36,5.444
