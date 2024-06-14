@@ -1,2 +1,2 @@
 # MacKi
-## Training datasets of ADMET prediction, DTI prediction, kinase map prediction, which can provide multi to Query and compare.
+## Training datasets of ADMET prediction, DTI prediction, kinase map prediction, which can provide multiple ways to Query and compare.
